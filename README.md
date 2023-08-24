@@ -1,4 +1,7 @@
 # Tip-Calculator
+
+https://adnane-tips-calculator.netlify.app/
+
 Tip Calculator with HTML CSS and JS
 
 Simple Tip Calculator is a great JavaScript project for beginners. 
