@@ -14,4 +14,7 @@ there is no alternative to this type of project to calculate how much amount or 
 
 If you want to do this manually you have to work a lot harder. Since programming is to make our daily necessary work easier.
 So this kind of project will make your calculation much easier. Here you will only input information and it will automatically show the result.
+
+
+
 ![tipsCalc](https://github.com/adnane84/Tip-Calculator/assets/92402125/e6325f1c-fbf6-4743-b38d-3cfa445275b4)
